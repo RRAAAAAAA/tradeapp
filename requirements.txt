@@ -1,4 +1,0 @@
-flask
-pandas
-numpy
-MetaTrader5   # Windows only; skip for CSV mode
